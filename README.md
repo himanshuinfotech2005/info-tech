@@ -1,2 +1,2 @@
 # info-tech
-to khnow github
+to khnow github.
